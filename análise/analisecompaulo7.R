@@ -8,14 +8,13 @@ library(lme4)
 library(nnet)
 
 
-
 lineplot.CI (coleta, cefafem, data=teiah12)
 lineplot.CI (coleta, cefamac, data=teiah12)
 lineplot.CI (situacaoteia, cefafem, data=teiah12)
 lineplot.CI (situacaoteia, cefamac, data=teiah12)
 lineplot.CI ( situacaoteia, coleta, data=teiah12)
 
-
+#wreajrkrll hwowirhaorh alrfhah
 
 summary(teiah22$nacomp2[teiah22$situacaoteia=="s"])
 #media e desvio padrão do numero de machos por teia agregada
