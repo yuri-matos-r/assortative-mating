@@ -128,3 +128,5 @@ lineplot.CI(coleta, acomp.num, data= teiah22)
 #para olhar o residuo na regressão logistica precisa de um pacote que chama dharma
 
 
+
+sfaçkçjfhlçasçh npiuash ahçl
