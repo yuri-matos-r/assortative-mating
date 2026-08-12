@@ -126,5 +126,5 @@ anova(testeh22.col, testeh22.int)
 plot(acomp.num~coleta, teiah22)
 lineplot.CI(coleta, acomp.num, data= teiah22)
 #para olhar o residuo na regressão logistica precisa de um pacote que chama dharma
-
+wqr;ljjhrqlkwh iigqwrkjqf kugq ikehtgqwvurjgqfvwi ljyhbqouk jgqwvhng iqwkg qjyhwgv lqniu
 
