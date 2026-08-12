@@ -15,7 +15,7 @@ lineplot.CI (situacaoteia, cefafem, data=teiah12)
 lineplot.CI (situacaoteia, cefamac, data=teiah12)
 lineplot.CI ( situacaoteia, coleta, data=teiah12)
 
-fdsljfhskbkljjsndfhsbn
+
 citation("nlme")
 #Hipótese 1####
 #Apenas em teias agregadas fêmeas maiores estarão com machos maiores e fêmeas menores estarão com machos menores
