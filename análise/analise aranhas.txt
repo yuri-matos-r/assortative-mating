@@ -1,0 +1,42 @@
+id	sexo	teia	situacaoteia	cefalotorax			teia	situacaoteia	cefafem	cefamac
+f01	f	1	s	0,593			1	s	0,593	0,145
+m01	m	1	s	0,145			3	a	0,545	0,186
+f03	f	3	a	0,493			10	s		
+m02	m	3	a	0,177						
+f10	f	10	s	0,545						
+m03	m	10	s	0,186						
+f11	f	11	s	0,607						
+m05	m	11	s	0,234						
+f12	f	12	s	0,579						
+m06	m	12	s	0,181						
+f13	f	13	s	0,587						
+m07	m	13	s	0,194						
+f14	f	14	s	0,526						
+m08	m	14	s	0,183						
+f19	f	19	a	0,559						
+m09	m	19	a	0,26						
+f20	f	20	a	0,579						
+m10	m	20	a	0,145						
+f30	f	30	a	 						
+m11	m	30	a	0,182						
+f45	f	45	a	0,35						
+m13	m	45	a	0,171						
+m14	m	45	a	0,144						
+f46	f	46	a	0,497						
+m15	m	46	a	0,167						
+f51	f	51	s	0,453						
+m16	m	51	s	0,22						
+f52	f	52	s	0,599						
+m17	m	52	s	0,225						
+f54	f	54	s	0,519						
+m18	m	54	s	0,18						
+f55	f	55	s	0,562						
+m19	m	55	s	0,154						
+f56	f	56	s	0,561						
+m20	m	56	s	0,251						
+f57	f	57	s	0,482						
+m21	m	57	s	0,212						
+f58	f	58	s	0,526						
+m22	m	58	s	0,183						
+f61	f	61	a	0,52						
+m24	m	61	a	0,265						
